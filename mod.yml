@@ -1,0 +1,411 @@
+title: KH1 Mario Galaxy
+description: Mario Galaxy
+assets:
+- name: remastered\amusic\music097.bgm\music097.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music097.bgm\music097.win32.scd
+- name: remastered\amusic\music098.bgm\music098.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music098.bgm\music098.win32.scd
+- name: remastered\amusic\music099.bgm\music099.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music099.bgm\music099.win32.scd
+- name: remastered\amusic\music100.dat\music100.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music100.dat\music100.win32.scd
+- name: remastered\amusic\music101.dat\music101.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music101.dat\music101.win32.scd
+- name: remastered\amusic\music102.dat\music102.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music102.dat\music102.win32.scd
+- name: remastered\amusic\music103.bgm\music103.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music103.bgm\music103.win32.scd
+- name: remastered\amusic\music103.dat\music103.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music103.dat\music103.win32.scd
+- name: remastered\amusic\music104.dat\music104.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music104.dat\music104.win32.scd
+- name: remastered\amusic\music105.dat\music105.win32.scd
+  method: copy
+  source: 
+  - name: remastered\amusic\music105.dat\music105.win32.scd
+- name: remastered\amusic\music106.bgm\music106.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music106.bgm\music106.win32.scd
+- name: remastered\amusic\music107.bgm\music107.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music107.bgm\music107.win32.scd
+- name: remastered\amusic\music108.bgm\music108.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music108.bgm\music108.win32.scd
+- name: remastered\amusic\music109.bgm\music109.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music109.bgm\music109.win32.scd
+- name: remastered\amusic\music110.bgm\music110.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music110.bgm\music110.win32.scd
+- name: remastered\amusic\music110.dat\music110.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music110.dat\music110.win32.scd
+- name: remastered\amusic\music111.bgm\music111.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music111.bgm\music111.win32.scd
+- name: remastered\amusic\music111.dat\music111.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music111.dat\music111.win32.scd
+- name: remastered\amusic\music112.dat\music112.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music112.dat\music112.win32.scd
+- name: remastered\amusic\music113.bgm\music113.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music113.bgm\music113.win32.scd
+- name: remastered\amusic\music114.bgm\music114.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music114.bgm\music114.win32.scd
+- name: remastered\amusic\music115.bgm\music115.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music115.bgm\music115.win32.scd
+- name: remastered\amusic\music116.dat\music116.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music116.dat\music116.win32.scd
+- name: remastered\amusic\music117.dat\music117.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music117.dat\music117.win32.scd
+- name: remastered\amusic\music118.bgm\music118.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music118.bgm\music118.win32.scd
+- name: remastered\amusic\music118.dat\music118.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music118.dat\music118.win32.scd
+- name: remastered\amusic\music119.dat\music119.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music119.dat\music119.win32.scd
+- name: remastered\amusic\music120.bgm\music120.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music120.bgm\music120.win32.scd
+- name: remastered\amusic\music120.dat\music120.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music120.dat\music120.win32.scd
+- name: remastered\amusic\music121.dat\music121.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music121.dat\music121.win32.scd
+- name: remastered\amusic\music122.dat\music122.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music122.dat\music122.win32.scd
+- name: remastered\amusic\music123.dat\music123.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music123.dat\music123.win32.scd
+- name: remastered\amusic\music124.dat\music124.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music124.dat\music124.win32.scd
+- name: remastered\amusic\music125.dat\music125.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music125.dat\music125.win32.scd
+- name: remastered\amusic\music126.bgm\music126.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music126.bgm\music126.win32.scd
+- name: remastered\amusic\music127.dat\music127.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music127.dat\music127.win32.scd
+- name: remastered\amusic\music128.dat\music128.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music128.dat\music128.win32.scd
+- name: remastered\amusic\music129.dat\music129.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music129.dat\music129.win32.scd
+- name: remastered\amusic\music130.dat\music130.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music130.dat\music130.win32.scd
+- name: remastered\amusic\music131.dat\music131.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music131.dat\music131.win32.scd
+- name: remastered\amusic\music132.bgm\music132.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music132.bgm\music132.win32.scd
+- name: remastered\amusic\music137.bgm\music137.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music137.bgm\music137.win32.scd
+- name: remastered\amusic\music140.dat\music140.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music140.dat\music140.win32.scd
+- name: remastered\amusic\music141.dat\music141.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music141.dat\music141.win32.scd
+- name: remastered\amusic\music142.bgm\music142.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music142.bgm\music142.win32.scd
+- name: remastered\amusic\music143.bgm\music143.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music143.bgm\music143.win32.scd
+- name: remastered\amusic\music143.dat\music143.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music143.dat\music143.win32.scd
+- name: remastered\amusic\music144.dat\music144.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music144.dat\music144.win32.scd
+- name: remastered\amusic\music145.bgm\music145.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music145.bgm\music145.win32.scd
+- name: remastered\amusic\music146.dat\music146.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music146.dat\music146.win32.scd
+- name: remastered\amusic\music147.dat\music147.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music147.dat\music147.win32.scd
+- name: remastered\amusic\music148.dat\music148.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music148.dat\music148.win32.scd
+- name: remastered\amusic\music149.dat\music149.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music149.dat\music149.win32.scd
+- name: remastered\amusic\music150.bgm\music150.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music150.bgm\music150.win32.scd
+- name: remastered\amusic\music151.bgm\music151.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music151.bgm\music151.win32.scd
+- name: remastered\amusic\music152.dat\music152.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music152.dat\music152.win32.scd
+- name: remastered\amusic\music153.dat\music153.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music153.dat\music153.win32.scd
+- name: remastered\amusic\music154.dat\music154.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music154.dat\music154.win32.scd
+- name: remastered\amusic\music155.dat\music155.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music155.dat\music155.win32.scd
+- name: remastered\amusic\music156.bgm\music156.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music156.bgm\music156.win32.scd
+- name: remastered\amusic\music157.bgm\music157.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music157.bgm\music157.win32.scd
+- name: remastered\amusic\music157.dat\music157.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music157.dat\music157.win32.scd
+- name: remastered\amusic\music158.bgm\music158.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music158.bgm\music158.win32.scd
+- name: remastered\amusic\music159.bgm\music159.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music159.bgm\music159.win32.scd
+- name: remastered\amusic\music160.bgm\music160.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music160.bgm\music160.win32.scd
+- name: remastered\amusic\music161.bgm\music161.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music161.bgm\music161.win32.scd
+- name: remastered\amusic\music162.bgm\music162.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music162.bgm\music162.win32.scd
+- name: remastered\amusic\music163.bgm\music163.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music163.bgm\music163.win32.scd
+- name: remastered\amusic\music164.bgm\music164.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music164.bgm\music164.win32.scd
+- name: remastered\amusic\music165.bgm\music165.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music165.bgm\music165.win32.scd
+- name: remastered\amusic\music166.bgm\music166.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music166.bgm\music166.win32.scd
+- name: remastered\amusic\music167.bgm\music167.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music167.bgm\music167.win32.scd
+- name: remastered\amusic\music168.bgm\music168.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music168.bgm\music168.win32.scd
+- name: remastered\amusic\music169.bgm\music169.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music169.bgm\music169.win32.scd
+- name: remastered\amusic\music170.bgm\music170.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music170.bgm\music170.win32.scd
+- name: remastered\amusic\music171.bgm\music171.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music171.bgm\music171.win32.scd
+- name: remastered\amusic\music172.bgm\music172.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music172.bgm\music172.win32.scd
+- name: remastered\amusic\music173.bgm\music173.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music173.bgm\music173.win32.scd
+- name: remastered\amusic\music174.bgm\music174.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music174.bgm\music174.win32.scd
+- name: remastered\amusic\music175.bgm\music175.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music175.bgm\music175.win32.scd
+- name: remastered\amusic\music176.bgm\music176.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music176.bgm\music176.win32.scd
+- name: remastered\amusic\music177.bgm\music177.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music177.bgm\music177.win32.scd
+- name: remastered\amusic\music178.bgm\music178.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music178.bgm\music178.win32.scd
+- name: remastered\amusic\music179.bgm\music179.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music179.bgm\music179.win32.scd
+- name: remastered\amusic\music180.bgm\music180.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music180.bgm\music180.win32.scd
+- name: remastered\amusic\music181.bgm\music181.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music181.bgm\music181.win32.scd
+- name: remastered\amusic\music182.bgm\music182.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music182.bgm\music182.win32.scd
+- name: remastered\amusic\music183.bgm\music183.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music183.bgm\music183.win32.scd
+- name: remastered\amusic\music184.bgm\music184.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music184.bgm\music184.win32.scd
+- name: remastered\amusic\music184.dat\music184.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music184.dat\music184.win32.scd
+- name: remastered\amusic\music185.bgm\music185.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music185.bgm\music185.win32.scd
+- name: remastered\amusic\music186.bgm\music186.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music186.bgm\music186.win32.scd
+- name: remastered\amusic\music187.bgm\music187.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music187.bgm\music187.win32.scd
+- name: remastered\amusic\music188.bgm\music188.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music188.bgm\music188.win32.scd
+- name: remastered\amusic\music189.bgm\music189.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music189.bgm\music189.win32.scd
+- name: remastered\amusic\music190.bgm\music190.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music190.bgm\music190.win32.scd
+- name: remastered\amusic\music191.bgm\music191.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music191.bgm\music191.win32.scd
+- name: remastered\amusic\music192.bgm\music192.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music192.bgm\music192.win32.scd
+- name: remastered\amusic\music193.bgm\music193.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music193.bgm\music193.win32.scd
+- name: remastered\amusic\music194.bgm\music194.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music194.bgm\music194.win32.scd
+- name: remastered\amusic\music196.bgm\music196.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music196.bgm\music196.win32.scd
+- name: remastered\amusic\music197.bgm\music197.win32.scd
+  method: copy
+  source:
+  - name: remastered\amusic\music197.bgm\music197.win32.scd
